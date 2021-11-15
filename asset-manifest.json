@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://bouba-jaz.github.io/csb-94s9u/static/css/main.e00a850d.chunk.css",
+    "main.js": "https://bouba-jaz.github.io/csb-94s9u/static/js/main.cbcca830.chunk.js",
+    "main.js.map": "https://bouba-jaz.github.io/csb-94s9u/static/js/main.cbcca830.chunk.js.map",
+    "runtime-main.js": "https://bouba-jaz.github.io/csb-94s9u/static/js/runtime-main.31d48d87.js",
+    "runtime-main.js.map": "https://bouba-jaz.github.io/csb-94s9u/static/js/runtime-main.31d48d87.js.map",
+    "static/css/2.bd932d36.chunk.css": "https://bouba-jaz.github.io/csb-94s9u/static/css/2.bd932d36.chunk.css",
+    "static/js/2.9ab4126f.chunk.js": "https://bouba-jaz.github.io/csb-94s9u/static/js/2.9ab4126f.chunk.js",
+    "static/js/2.9ab4126f.chunk.js.map": "https://bouba-jaz.github.io/csb-94s9u/static/js/2.9ab4126f.chunk.js.map",
+    "index.html": "https://bouba-jaz.github.io/csb-94s9u/index.html",
+    "static/css/2.bd932d36.chunk.css.map": "https://bouba-jaz.github.io/csb-94s9u/static/css/2.bd932d36.chunk.css.map",
+    "static/css/main.e00a850d.chunk.css.map": "https://bouba-jaz.github.io/csb-94s9u/static/css/main.e00a850d.chunk.css.map",
+    "static/js/2.9ab4126f.chunk.js.LICENSE.txt": "https://bouba-jaz.github.io/csb-94s9u/static/js/2.9ab4126f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31d48d87.js",
+    "static/css/2.bd932d36.chunk.css",
+    "static/js/2.9ab4126f.chunk.js",
+    "static/css/main.e00a850d.chunk.css",
+    "static/js/main.cbcca830.chunk.js"
+  ]
+}
